@@ -1,0 +1,18 @@
+ WARN [2012-10-09 14:52:22,576] (Utils.java:loadDocument:823) - Unable to load document: D:\Demo1\.metadata\.plugins\com.salesforce.ide.core\packageCache.xml (The system cannot find the file specified)
+ WARN [2012-10-09 14:52:27,382] (MetadataStubExt.java:tryOneByOne:410) - INVALID_TYPE: Cannot use: ApexTriggerCoupling in this organization
+ WARN [2012-10-09 14:52:34,808] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'BusinessProcess': Unable to get bean for id 'BusinessProcess'
+ WARN [2012-10-09 14:52:34,824] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'CustomField': Unable to get bean for id 'CustomField'
+ WARN [2012-10-09 14:52:34,824] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'CustomLabel': Unable to get bean for id 'CustomLabel'
+ WARN [2012-10-09 14:52:39,410] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'FieldSet': Unable to get bean for id 'FieldSet'
+ WARN [2012-10-09 14:52:39,426] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'ListView': Unable to get bean for id 'ListView'
+ WARN [2012-10-09 14:52:39,426] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'NamedFilter': Unable to get bean for id 'NamedFilter'
+ WARN [2012-10-09 14:52:39,442] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'RecordType': Unable to get bean for id 'RecordType'
+ WARN [2012-10-09 14:52:40,986] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SharingReason': Unable to get bean for id 'SharingReason'
+ WARN [2012-10-09 14:52:41,002] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'ValidationRule': Unable to get bean for id 'ValidationRule'
+ WARN [2012-10-09 14:52:41,002] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'WebLink': Unable to get bean for id 'WebLink'
+ WARN [2012-10-09 14:52:41,002] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'WorkflowAlert': Unable to get bean for id 'WorkflowAlert'
+ WARN [2012-10-09 14:52:41,002] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'WorkflowFieldUpdate': Unable to get bean for id 'WorkflowFieldUpdate'
+ WARN [2012-10-09 14:52:41,002] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'WorkflowKnowledgePublish': Unable to get bean for id 'WorkflowKnowledgePublish'
+ WARN [2012-10-09 14:52:41,002] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'WorkflowOutboundMessage': Unable to get bean for id 'WorkflowOutboundMessage'
+ WARN [2012-10-09 14:52:41,017] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'WorkflowRule': Unable to get bean for id 'WorkflowRule'
+ WARN [2012-10-09 14:52:41,017] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'WorkflowTask': Unable to get bean for id 'WorkflowTask'
